@@ -1,0 +1,2 @@
+from oracleConexion import conexionBD
+
